@@ -1,1 +1,3 @@
 # Social website: wich offers to choose a plan...
+
+![social](https://github.com/ilya-averin/PricingTable/blob/master/PricingTable/img/social.jpg)
